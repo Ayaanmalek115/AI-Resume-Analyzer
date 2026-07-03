@@ -42,7 +42,7 @@ st.sidebar.write(
 ✔ AI Interview Questions
 
 ✔ Answer Feedback
-
+    
 ✔ Result Storage
 """
 )
